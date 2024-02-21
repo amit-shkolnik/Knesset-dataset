@@ -1,0 +1,1 @@
+KNS_DocumentBill_extracted_texts.zip filter=lfs diff=lfs merge=lfs -text
