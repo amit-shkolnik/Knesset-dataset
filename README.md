@@ -1,7 +1,7 @@
 # Knesset-dataset
 This dataset contains Hebrew texts:
 1. 168,591 files of Hebrew texts
-2. volume: 7,719MB, 
+2. volume - 7,719MB
 3. total 829,610,045 words 
 
 Texts are from Knesset protocols- plenum, committees, legislation.
